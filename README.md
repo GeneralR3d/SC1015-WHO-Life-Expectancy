@@ -9,6 +9,12 @@ For detailed walkthrough, please view the source code in order from:
 3.
 4.
 5.
+## Dataframes
+1) Life: The original dataframe with missing values
+2) Life_filled: the dataframe with imputed data, used for EDA
+3) Life_agg: the dataframe with aggregated rows for each country for EDA
+4) Life_tranform: the dataframe after skewness correction, **NOT** used in EDA, used for machine learning
+
 ## Contributors
 - Tuan Ding Ren @
 - Tey Cia Meng @
